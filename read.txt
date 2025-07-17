@@ -1,0 +1,26 @@
+# Tailwind CSS Portfolio
+
+This is a personal portfolio project built using **HTML** and **Tailwind CSS**.
+
+## Sections Included:
+- Home (Intro + Resume download)
+- About Me (Background + Skills + Timeline)
+- Projects (3 demo projects)
+- Contact (Form only, frontend)
+
+## Features:
+- Fully responsive (mobile/tablet/desktop)
+- Tailwind utility classes only
+- Smooth scroll + hover animations
+- Semantic HTML
+
+## Experience:
+I learned how to:
+- Build clean layouts with Tailwind CSS grid and flex
+- Organize content semantically
+- Style forms and buttons
+- Make responsive websites without external CSS
+
+## Screenshots:
+*(Add images before submission)*
+
